@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Esse repositório agora é da liviacicarello
 using System.Diagnostics;
 using System.Text;
 
